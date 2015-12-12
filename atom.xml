@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Redefining Technology]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://devcron.com/"/>
-  <updated>2015-12-11T22:39:39.784Z</updated>
+  <updated>2015-12-12T01:30:44.126Z</updated>
   <id>http://devcron.com/</id>
   
   <author>
@@ -13,6 +13,23 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Our First Blog Post]]></title>
+    <link href="http://devcron.com/2015/12/Our-First-Blog-Post/"/>
+    <id>http://devcron.com/2015/12/Our-First-Blog-Post/</id>
+    <published>2015-12-12T01:21:49.000Z</published>
+    <updated>2015-12-12T01:30:44.126Z</updated>
+    <content type="html"><![CDATA[<h1 id="Welcome"><a href="#Welcome" class="headerlink" title="Welcome"></a>Welcome</h1><p>This is out first blog post</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h1 id="Welcome"><a href="#Welcome" class="headerlink" title="Welcome"></a>Welcome</h1><p>This is out first blog post</p>
+]]>
+    </summary>
+    
+      <category term="Welcome" scheme="http://devcron.com/tags/Welcome/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Hello World]]></title>
